@@ -1,0 +1,3 @@
+.git
+java1
+java1 - projekti fillestar

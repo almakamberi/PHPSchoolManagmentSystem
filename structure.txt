@@ -1,0 +1,45 @@
+Folder PATH listing
+Volume serial number is 2295-B38C
+C:.
+³   .gitattributes
+³   FolderList.txt
+³   structure.txt
+³   
+ÃÄÄÄjava1
+³   ³   index.php
+³   ³   
+³   ÃÄÄÄassets
+³   ³   ÀÄÄÄvideo
+³   ³           2002526-hd_1920_1080_30fps.mp4
+³   ³           5198159-uhd_3840_2160_25fps.mp4
+³   ³           
+³   ÃÄÄÄbackend
+³   ³       login.php
+³   ³       signup.php
+³   ³       
+³   ÃÄÄÄconfig
+³   ³       db_connection.php
+³   ³       
+³   ÀÄÄÄfrontend
+³           signin.html
+³           signup.html
+³           
+ÀÄÄÄjava1 - projekti fillestar
+    ³   index.php
+    ³   
+    ÃÄÄÄassets
+    ³   ÀÄÄÄvideo
+    ³           2002526-hd_1920_1080_30fps.mp4
+    ³           5198159-uhd_3840_2160_25fps.mp4
+    ³           
+    ÃÄÄÄbackend
+    ³       login.php
+    ³       signup.php
+    ³       
+    ÃÄÄÄconfig
+    ³       db_connection.php
+    ³       
+    ÀÄÄÄfrontend
+            signin.html
+            signup.html
+            
